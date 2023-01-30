@@ -24,6 +24,8 @@ Database :
 
 OS : 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
 
 
 Infra : 
